@@ -1,1 +1,1 @@
-
+Add installer class
